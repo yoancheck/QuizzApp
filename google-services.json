@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "444071077336",
+    "project_id": "java-natan-project",
+    "storage_bucket": "java-natan-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444071077336:android:d1bbb1e0b9622ab6917ead",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444071077336-vbgmnrgb634e4bo242sofo3qqig8jpc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAciieN-xJBzmr-CTjDCqktjkUNalPprSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444071077336-vbgmnrgb634e4bo242sofo3qqig8jpc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444071077336:android:282c676ed72dd06a917ead",
+        "android_client_info": {
+          "package_name": "com.example.project_java_natan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444071077336-vbgmnrgb634e4bo242sofo3qqig8jpc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAciieN-xJBzmr-CTjDCqktjkUNalPprSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444071077336-vbgmnrgb634e4bo242sofo3qqig8jpc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
